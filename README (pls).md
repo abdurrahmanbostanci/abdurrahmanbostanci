@@ -52,7 +52,8 @@ Services:
 |  | \/   |   | (_) | (/_ (_  |_ _> 
      /             _|
 
--Automation marketing app - with Java Spring framework + React Redux + PostgreSQL (live demo: https://marufotomasyon.vercel.app)
+-Automation marketing app - with Java Spring framework + React Redux + PostgreSQL
+(live demo: https://marufotomasyon.vercel.app)
 -Takımsan - Platex / Planetary System Extruder - with TIA Portal
 
 -----
