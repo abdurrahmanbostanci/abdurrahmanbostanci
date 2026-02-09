@@ -36,6 +36,7 @@ Tools & Technologies:
 -PostgreSQL
 -Git
 -TIA Portal
+-TwinCAT
 -Sysmac Studio
 -Codesys
 -EPLAN
