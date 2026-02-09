@@ -1,4 +1,4 @@
-<p align="center">
+<p textalign="center">
 ```text
            _         _                      _                           
      /\   | |       | |                    | |                          
