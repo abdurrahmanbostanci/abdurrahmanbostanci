@@ -14,7 +14,7 @@
  /\  |_   _     _|_   |\/|  _  
 /--\ |_) (_) |_| |_   |  | (/_ 
 
--I'm a High-school student witch is 16 years old.
+-I'm 16-years-old High-school student.
 -Working with Programming Languages, Electrical Science and PLC Programs since 12.
 -Full-Stack developer.
 -Lifetime Learner.
